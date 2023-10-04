@@ -26,7 +26,7 @@ function Dashboard() {
             />
             <p
               onClick={handleOpen}
-              className="bg-[#f0f2f5] hover:bg-[#e4e6e9] rounded-full  xl:w-[600px] h-10 px-5 py-2 cursor-pointer"
+              className="bg-[#f0f2f5] hover:bg-[#e4e6e9] rounded-full text-xs xl:text-base xl:w-[600px] h-10 px-5 py-2 cursor-pointer"
             >
               Hiep ơi, bạn đang nghĩ gì thế?
             </p>
